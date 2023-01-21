@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 5;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h6 {
+  font-size: medium;
+}
+.one {
+  text-align: center;
+}
+.two {
+  text-align: right;
+}
+
+.three {
+  text-align: right;
+}
+.span1 {
+  text-align: right;
+}
