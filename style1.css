@@ -21,3 +21,8 @@ h6 {
 .span1 {
   text-align: right;
 }
+
+.flex1 {
+  display: flex;
+  justify-content: space-between;
+}
